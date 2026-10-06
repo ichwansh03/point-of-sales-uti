@@ -52,7 +52,7 @@ dependencies {
 
     //for image
     implementation 'com.github.bumptech.glide:glide:4.14.2'
-    implementation 'com.airbnb.android:lottie:3.4.0'
+    implementation 'com.airbnb.android:lottie:6.7.1'
 
     //volley library
     implementation 'com.android.volley:volley:1.2.1'
