@@ -61,7 +61,7 @@ dependencies {
     implementation 'com.github.ismaeldivita:chip-navigation-bar:1.4.0'
 
     //midtrans sdk
-    implementation 'com.midtrans:uikit:2.0.0-SANDBOX'
+    implementation 'com.midtrans:uikit:2.5.0'
 
     //networkng and request permission
     implementation 'com.karumi:dexter:6.2.3'
